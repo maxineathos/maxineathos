@@ -9,6 +9,7 @@
 ## Minhas Skills
 
 **Aplicações e dados**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -35,6 +36,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxine-athos-82036b376/)](https://www.linkedin.com/in/maxine-athos-82036b376/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxineathos@icloud.com)](mailto:maxineathos@icloud.com)
+[![Linkedin](https://img.shields.io/badge/-Maxine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxine-athos-82036b376/)](https://www.linkedin.com/in/maxine-athos-82036b376/)
+[![Gmail Badge](https://img.shields.io/badge/-maxineathos@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxineathos@icloud.com)](mailto:maxineathos@icloud.com)
 [![GitHub](https://img.shields.io/github/followers/maxineathos?label=follow&style=social)](https://github.com/maxineathos)
